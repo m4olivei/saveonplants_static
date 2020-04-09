@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.l.v.sop.com	TRUE	/	FALSE	1999999999	SESS8c2606ca501ccfe2971c1dd64ab19485	t28ehhmei5l6dg3ass2iu6e437
-
